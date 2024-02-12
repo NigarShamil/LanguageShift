@@ -1,0 +1,26 @@
+{
+  "en": {
+    "translation": {
+      "welcome": "Welcome to React",
+      "text": "This web page was created to use 'Custom Hook' to change the language of the page."
+    }
+  },
+  "tr": {
+    "translation": {
+      "welcome": "React'a hoş geldiniz",
+      "text":"Bu web sayfası, 'Custom Hook' kullanarak sayfanın dilini değiştirmek için oluşturulmuştur."
+    }
+  },
+  "es": {
+    "translation": {
+      "welcome": "Bienvenido a React",
+      "text":"Esta página web se creó para utilizar 'Custom Hook' para cambiar el idioma de la página. "
+    }
+  },
+  "az": {
+    "translation": {
+      "welcome": "Reacta xoş gəlmisiniz",
+      "text":"Bu veb səhifə 'Custom Hook' istifadə edərək səhifənin dilinin dəyişdirilməsi üçün yaradılmışdır"
+    }
+  }
+}
